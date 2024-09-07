@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Endromia-9027
 - 👀 I’m interested in coding, cybersecurity
 - 🌱 I’m currently learning cybersecurity and planning to learn javascript
-- 📫 How to reach me Don't
+- 📫 How to reach me : Don't
 - ⚡ Fun fact : You are a ctrl+c, ctrl+v coder....
 
 <!---
