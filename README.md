@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, cybersecurity
 - 🌱 I’m currently learning cybersecurity and planning to learn javascript
 - 📫 How to reach me : Don't
-- ⚡ Fun fact : You are a ctrl+c, ctrl+v coder....
+- ⚡ Fun fact : You use ctrl+c, ctrl+v in your daily life....
 
 <!---
 Endromia-9027/Endromia-9027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
