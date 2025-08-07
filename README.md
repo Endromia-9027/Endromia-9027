@@ -37,19 +37,12 @@
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=endromia-9027&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=endromia-9027&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=endromia-9027&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
+| ![Arthur Stats Profile](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=endromia-9027&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=endromia-9027&hide=Html&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=endromia-9027&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-<hr/>
-
-<br/>
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endromia-9027&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=endromia-9027&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
