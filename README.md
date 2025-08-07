@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Java, Ethical Hacking, AWS**
+ 🌱 I’m currently learning **Java, Ethical Hacking, AWS, Game devleoping**
 
  </div>
  
